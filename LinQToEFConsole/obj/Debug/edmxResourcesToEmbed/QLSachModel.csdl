@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSACHModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BOOKS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PRICE" Type="Double" Nullable="false" />
+    <Property Name="ID_CATEGORY" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CATEGORIES" Relationship="Self.FK_BOOKS_CATEGORIES" FromRole="BOOKS" ToRole="CATEGORIES" />
+  </EntityType>
+  <EntityType Name="CATEGORIES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="BOOKS" Relationship="Self.FK_BOOKS_CATEGORIES" FromRole="CATEGORIES" ToRole="BOOKS" />
+  </EntityType>
+  <Association Name="FK_BOOKS_CATEGORIES">
+    <End Role="CATEGORIES" Type="QLSACHModel.CATEGORIES" Multiplicity="1" />
+    <End Role="BOOKS" Type="QLSACHModel.BOOKS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CATEGORIES">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="BOOKS">
+        <PropertyRef Name="ID_CATEGORY" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLSACHEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BOOKS" EntityType="QLSACHModel.BOOKS" />
+    <EntitySet Name="CATEGORIES" EntityType="QLSACHModel.CATEGORIES" />
+    <AssociationSet Name="FK_BOOKS_CATEGORIES" Association="Self.FK_BOOKS_CATEGORIES">
+      <End Role="CATEGORIES" EntitySet="CATEGORIES" />
+      <End Role="BOOKS" EntitySet="BOOKS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

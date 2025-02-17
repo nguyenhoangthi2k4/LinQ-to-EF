@@ -1,0 +1,12 @@
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\bin\Debug\LinQToEFConsole.exe.config
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\bin\Debug\LinQToEFConsole.exe
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\bin\Debug\LinQToEFConsole.pdb
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\bin\Debug\EntityFramework.dll
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\bin\Debug\EntityFramework.xml
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\obj\Debug\LinQToEFConsole.csproj.AssemblyReference.cache
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\obj\Debug\LinQToEFConsole.csproj.CoreCompileInputs.cache
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\obj\Debug\LinQToEF.8258A972.Up2Date
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\obj\Debug\LinQToEFConsole.exe
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEFConsole\obj\Debug\LinQToEFConsole.pdb

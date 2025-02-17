@@ -1,0 +1,15 @@
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\bin\Debug\LinQToEF.exe.config
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\bin\Debug\LinQToEF.exe
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\bin\Debug\LinQToEF.pdb
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\bin\Debug\EntityFramework.dll
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\bin\Debug\EntityFramework.xml
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\obj\Debug\LinQToEF.csproj.AssemblyReference.cache
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\obj\Debug\LinQToEF.Form1.resources
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\obj\Debug\LinQToEF.Properties.Resources.resources
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\obj\Debug\LinQToEF.csproj.GenerateResource.cache
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\obj\Debug\LinQToEF.csproj.CoreCompileInputs.cache
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\obj\Debug\LinQToEF.csproj.Up2Date
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\obj\Debug\LinQToEF.exe
+D:\Win Form\LINQ TO ENTITIES FRAMEWORK\LinQToEF\LinQToEF\obj\Debug\LinQToEF.pdb

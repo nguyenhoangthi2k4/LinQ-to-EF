@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8A4B1E-07D9-4BE5-BD1C-B36A2682866B}|LinQToEF\\LinQToEF.csproj|d:\\win form\\linq to entities framework\\linqtoef\\linqtoef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8A4B1E-07D9-4BE5-BD1C-B36A2682866B}|LinQToEF\\LinQToEF.csproj|solutionrelative:linqtoef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8A4B1E-07D9-4BE5-BD1C-B36A2682866B}|LinQToEF\\LinQToEF.csproj|D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\linqtoef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC8A4B1E-07D9-4BE5-BD1C-B36A2682866B}|LinQToEF\\LinQToEF.csproj|solutionrelative:linqtoef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8A4B1E-07D9-4BE5-BD1C-B36A2682866B}|LinQToEF\\LinQToEF.csproj|D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\linqtoef\\qlsachmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DC8A4B1E-07D9-4BE5-BD1C-B36A2682866B}|LinQToEF\\LinQToEF.csproj|solutionrelative:linqtoef\\qlsachmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLSachModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\LinQToEF\\QLSachModel.edmx",
+              "RelativeDocumentMoniker": "LinQToEF\\QLSachModel.edmx",
+              "ToolTip": "D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\LinQToEF\\QLSachModel.edmx [Diagram1]",
+              "RelativeToolTip": "LinQToEF\\QLSachModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-02-13T11:29:22.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\LinQToEF\\Form1.cs",
+              "RelativeDocumentMoniker": "LinQToEF\\Form1.cs",
+              "ToolTip": "D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\LinQToEF\\Form1.cs",
+              "RelativeToolTip": "LinQToEF\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:08:39.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\LinQToEF\\Form1.cs",
+              "RelativeDocumentMoniker": "LinQToEF\\Form1.cs",
+              "ToolTip": "D:\\Win Form\\LINQ TO ENTITIES FRAMEWORK\\LinQToEF\\LinQToEF\\Form1.cs [Design]",
+              "RelativeToolTip": "LinQToEF\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:07:54.794Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
